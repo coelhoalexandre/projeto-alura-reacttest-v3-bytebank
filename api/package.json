@@ -4,8 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "json-server --watch ./db.json",
-    "start-api": "node server.js"
+    "start": "node server.js",
+    "start-json-server": "json-server --watch ./db.json"
   },
   "keywords": [],
   "author": "",
